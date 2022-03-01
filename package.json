@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/nativestrap/nativestrap-node/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/nativestrap/nativestrap-node",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/nativestrap.js",
+  "name": "nativestrap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nativestrap/nativestrap-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
